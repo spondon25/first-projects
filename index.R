@@ -262,3 +262,4 @@ intercept <- coef(lm_model)[1]
 cat("Slope:", slope, "\n")
 cat("Intercept:", intercept, "\n")
 
+#linear_regression
